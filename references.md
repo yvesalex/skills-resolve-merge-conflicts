@@ -1,2 +1,4 @@
-# This is a conflictual file
-I want this to happen :-)
+# References
+
+* octocat 1 😈
+
